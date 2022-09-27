@@ -1,2 +1,2 @@
-# IBM-DS-AI-DE-on-Coursera-repo
- Repository for IBM Courses on Coursera
+# IBM Data Science on Coursera
+IBM Data Science & Data Analyst Professional Certificates
